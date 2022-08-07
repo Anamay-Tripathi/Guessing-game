@@ -1,0 +1,7 @@
+The project makes use of Tkinter for GUI, random module for generating random targets and clues.
+
+Since we use Tkinter which is a built-in GUI library in python, we check it by importing it
+python
+import tkinter
+import random
+to generate random number
