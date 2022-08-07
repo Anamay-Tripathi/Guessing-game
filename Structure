@@ -1,0 +1,6 @@
+Let’s have a look at the steps to build the project:
+
+Importing modules: tkinter, random and declaring variables
+Declaring clue functions
+Declaring and defining guess and target number functions
+Creating the user input interface
